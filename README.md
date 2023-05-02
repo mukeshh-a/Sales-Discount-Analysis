@@ -17,7 +17,7 @@ The necessary data was collected and structured in MS Excel files. The following
 Dashboard
 
 A dashboard was created to visualize the data and provide insights. 
-The dashboard is available at [https://public.tableau.com/app/profile/mukesh.ale/viz/SuperstoresDashboard_16830373705840/Dashboard2].
+The dashboard is available at [https://public.tableau.com/app/profile/mukesh.ale/viz/SuperstoresDashboard_16830373705840/Dashboard2]
 
 Key Findings
 
